@@ -9,7 +9,7 @@ export const headData = {
 export const heroData = {
   title: 'Welcome to my portfolio, ' + " I'm ",
   name: 'Kaan Subaşıoğlu, ',
-  subtitle: 'I am an adaptive the Full-Stack' + ' Developer based in Cambridge',
+  subtitle: 'I am an adaptive Full-Stack' + ' Developer based in Cambridge',
   cta: 'More about me',
 };
 
