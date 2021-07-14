@@ -52,7 +52,7 @@ export const footerData = {
     {
       id: nanoid (),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/kaan-suba%C5%9F%C4%B1o%C4%9Flu-21b081105/',
+      url: 'https://www.linkedin.com/in/kaan-subasioglu/',
     },
     {
       id: nanoid (),
